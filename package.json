@@ -1,0 +1,28 @@
+{
+  "name": "iedb-mhc-scores",
+  "version": "1.0.0",
+  "description": "Reorganize csv columns",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/markmontymark/iedb-mhc-scores"
+  },
+  "keywords": [
+    "iedb",
+    "mhc",
+    "csv"
+  ],
+  "author": "Mark Koopman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markmontymark/iedb-mhc-scores/issues"
+  },
+  "homepage": "https://github.com/markmontymark/iedb-mhc-scores",
+  "dependencies": {
+    "csv2": "^0.1.1",
+    "through2": "^0.6.3"
+  }
+}
